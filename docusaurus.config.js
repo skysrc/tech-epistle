@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://skysrc.github.io',
+  baseUrl: '/tech-epistle/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'skysrc', // Usually your GitHub org/user name.
-  projectName: 'techtapir', // Usually your repo name.
+  projectName: 'tech-epistle', // Usually your repo name.
 
   presets: [
     [
