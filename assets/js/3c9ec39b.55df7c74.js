@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_site=self.webpackChunkblog_site||[]).push([[443],{2183:function(e){e.exports=JSON.parse('{"allTagsPath":"/tech-epistle/blog/tags","slug":"/tech-epistle/blog/tags/hello","name":"hello","count":2,"permalink":"/tech-epistle/blog/tags/hello"}')}}]);
