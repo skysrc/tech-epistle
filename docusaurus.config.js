@@ -21,12 +21,9 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        docs: false, // Optional: disable the docs pluginfalse, // Optional: disable the docs plugin
         blog: {
+          routeBasePath: '/', // Serve the blog at the site's root
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
@@ -43,25 +40,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Tech-Epistle',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
-        },
-        items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
-        ],
+        }
       },
       footer: {
         style: 'dark',
@@ -106,7 +89,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Tech-Epistle, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
