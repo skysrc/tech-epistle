@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://skysrc.github.io/tech-epistle/</id>
+    <title>My Site Blog</title>
+    <updated>2022-04-10T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://skysrc.github.io/tech-epistle/"/>
+    <subtitle>My Site Blog</subtitle>
+    <icon>https://skysrc.github.io/tech-epistle/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://skysrc.github.io/tech-epistle/welcome"/>
+        <updated>2022-04-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to my blog, this is where I will journal all the tech stuff, fun stuff and some vexation (if any) in tech.]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to my blog, this is where I will journal all the tech stuff, fun stuff and some vexation (if any) in tech.</p>]]></content>
+        <author>
+            <name>Sky</name>
+            <uri>https://github.com/skysrc</uri>
+        </author>
+        <category label="hello" term="hello"/>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
+</feed>

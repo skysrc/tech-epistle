@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>My Site Blog</title>
+        <link>https://skysrc.github.io/tech-epistle/</link>
+        <description>My Site Blog</description>
+        <lastBuildDate>Sun, 10 Apr 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://skysrc.github.io/tech-epistle/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Sun, 10 Apr 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to my blog, this is where I will journal all the tech stuff, fun stuff and some vexation (if any) in tech.]]></description>
+            <content:encoded><![CDATA[<p>Welcome to my blog, this is where I will journal all the tech stuff, fun stuff and some vexation (if any) in tech.</p>]]></content:encoded>
+            <category>hello</category>
+            <category>docusaurus</category>
+        </item>
+    </channel>
+</rss>

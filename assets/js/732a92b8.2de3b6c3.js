@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_site=self.webpackChunkblog_site||[]).push([[692],{7901:function(e){e.exports=JSON.parse('{"permalink":"/tech-epistle/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

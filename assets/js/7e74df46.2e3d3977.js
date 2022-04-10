@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_site=self.webpackChunkblog_site||[]).push([[33],{9883:function(s){s.exports=JSON.parse('{"allTagsPath":"/tech-epistle/tags","slug":"/tech-epistle/tags/docusaurus","name":"docusaurus","count":1,"permalink":"/tech-epistle/tags/docusaurus"}')}}]);
