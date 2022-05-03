@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog_site=self.webpackChunkblog_site||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/tech-epistle/welcome"}]}')}}]);

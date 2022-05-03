@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_site=self.webpackChunkblog_site||[]).push([[470],{116:function(e){e.exports=JSON.parse('{"allTagsPath":"/tech-epistle/tags","slug":"/tech-epistle/tags/font","name":"font","count":1,"permalink":"/tech-epistle/tags/font"}')}}]);

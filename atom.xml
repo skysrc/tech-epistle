@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://skysrc.github.io/tech-epistle/</id>
     <title>Tech-Epistle Blog</title>
-    <updated>2022-04-10T00:00:00.000Z</updated>
+    <updated>2022-05-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://skysrc.github.io/tech-epistle/"/>
     <subtitle>Tech-Epistle Blog</subtitle>
     <icon>https://skysrc.github.io/tech-epistle/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Customize Windows Terminal Font Face]]></title>
+        <id>windows-terminal-font</id>
+        <link href="https://skysrc.github.io/tech-epistle/windows-terminal-font"/>
+        <updated>2022-05-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In order to enable a vast collection of icons support in Windows Terminal, we will have to install Nerd Font onto our machine.]]></summary>
+        <content type="html"><![CDATA[<p>In order to enable a vast collection of icons support in Windows Terminal, we will have to install Nerd Font onto our machine.</p><ol><li>Visit <a href="https://www.nerdfonts.com/font-downloads" target="_blank" rel="noopener noreferrer">Nerd Font</a>. Pick a font that work for you, you may checkout the preview by clicking on the preview link provided.</li><li>Download, extract and install font file (.ttf) that with 'Windows' name on it.</li><li>Now you can change the font for invidual shell (E.g. Windows Powershell, PoweShell, Command Prompt, or WSL <!-- -->[Linux distros installed]<!-- --> ). OR for all by customize on the 'Default'.</li><li>Select Individual shell or 'Default' -&gt; Additional setting (Appearance) -&gt; Text (Font face) -&gt; select your installed font from the drop-down.</li><li>Click 'Save' and immediately you may see the font face changed.</li></ol>]]></content>
+        <author>
+            <name>Sky</name>
+            <uri>https://github.com/skysrc</uri>
+        </author>
+        <category label="font" term="font"/>
+        <category label="windowsterminal" term="windowsterminal"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>

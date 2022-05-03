@@ -4,9 +4,19 @@
         <title>Tech-Epistle Blog</title>
         <link>https://skysrc.github.io/tech-epistle/</link>
         <description>Tech-Epistle Blog</description>
-        <lastBuildDate>Sun, 10 Apr 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Customize Windows Terminal Font Face]]></title>
+            <link>https://skysrc.github.io/tech-epistle/windows-terminal-font</link>
+            <guid>windows-terminal-font</guid>
+            <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[In order to enable a vast collection of icons support in Windows Terminal, we will have to install Nerd Font onto our machine.]]></description>
+            <content:encoded><![CDATA[<p>In order to enable a vast collection of icons support in Windows Terminal, we will have to install Nerd Font onto our machine.</p><ol><li>Visit <a href="https://www.nerdfonts.com/font-downloads" target="_blank" rel="noopener noreferrer">Nerd Font</a>. Pick a font that work for you, you may checkout the preview by clicking on the preview link provided.</li><li>Download, extract and install font file (.ttf) that with 'Windows' name on it.</li><li>Now you can change the font for invidual shell (E.g. Windows Powershell, PoweShell, Command Prompt, or WSL <!-- -->[Linux distros installed]<!-- --> ). OR for all by customize on the 'Default'.</li><li>Select Individual shell or 'Default' -&gt; Additional setting (Appearance) -&gt; Text (Font face) -&gt; select your installed font from the drop-down.</li><li>Click 'Save' and immediately you may see the font face changed.</li></ol>]]></content:encoded>
+            <category>font</category>
+            <category>windowsterminal</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://skysrc.github.io/tech-epistle/welcome</link>
